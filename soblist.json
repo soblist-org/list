@@ -3,7 +3,10 @@
     "name": "叶飞杨",
     "enName": "Feiyang Ye",
     "addr": "湖北省黄冈市浠水县",
-    "schoolName": "南方科技大学 Southern University of Science and Technology",
+    "schoolName": [
+      "南方科技大学 Southern University of Science and Technology, abbr: SUST",
+      "悉尼科技大学 University of Technology Sydney abbr: UTS"
+    ],
     "addedDate": "2018-08-01",
     "idNumber": "421125199610090035",
     "picSrc": "https://res.cloudinary.com/dnuewvqib/image/upload/v1558323157/soblist/21558321983_.pic_szriij.jpg",
